@@ -1,2 +1,2 @@
-# MyFirstWebProject
+# MyFirstWebPage
 A simple journal webpage
